@@ -19,6 +19,8 @@ weight = 5
 "Efficient algorithms for processing big and heavy data",
 "Efficient combinatorial optimization"
   ]
+  
+  +++
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
