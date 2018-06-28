@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Rochester Instiute of Technology", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "panos_p_markopoulos.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "panos_p_markopoulos_photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "panos@rit.edu"
   address = "79 Lomb Memorial Drive, GLE-3081, Rochester Institute of Technology, Rochester, NY 14623, USA"
   office_hours = ""
