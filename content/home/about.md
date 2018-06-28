@@ -20,7 +20,6 @@ weight = 5
 "Efficient combinatorial optimization"
   ]
   
-  +++
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
