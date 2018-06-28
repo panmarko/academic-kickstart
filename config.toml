@@ -249,11 +249,6 @@ enableGitInfo = false
     icon = "orcid"
     icon_pack = "ai"
     link = "https://orcid.org/0000-0001-9686-779X"
-    
-    [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "https://orcid.org/0000-0001-9686-779X"
 
   #[[params.social]]
   #  icon = "github"
