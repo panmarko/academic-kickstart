@@ -13,9 +13,9 @@ weight = 5
 "Statistical and adaptive signal/data processing",
 "Tensor methods, multi-linear optimization, and applications",
 "Corruption-resistant data analysis",
-"L1-norm Principal-Component Analysis (L1-PCA),
-"L1-norm Tensor decomposition,
-"Reliable learning from few training measurements,
+"L1-norm Principal-Component Analysis (L1-PCA)",
+"L1-norm Tensor decomposition",
+"Reliable learning from few training measurements",
 "Efficient algorithms for processing big and heavy data",
 "Efficient combinatorial optimization"
   ]
