@@ -10,9 +10,14 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+"Statistical and adaptive signal/data processing",
+"Tensor methods, multi-linear optimization, and applications",
+"Corruption-resistant data analysis",
+"L1-norm Principal-Component Analysis (L1-PCA),
+"L1-norm Tensor decomposition,
+"Reliable learning from few training measurements,
+"Efficient algorithms for processing big and heavy data",
+"Efficient combinatorial optimization"
   ]
 
 # List your qualifications (such as academic degrees).
