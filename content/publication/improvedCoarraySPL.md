@@ -1,6 +1,6 @@
 +++
 title = "Improved coarray autocorrelation-matrix estimate for coprime arrays"
-date = 2013-07-01T00:00:00
+date = 2018-07-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Dimitris Chachlakis", "Panos P. Markopoulos"]`.
 authors = ["Dimitris Chachlakis", "Panos P. Markopoulos"]
