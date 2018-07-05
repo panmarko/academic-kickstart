@@ -21,13 +21,13 @@ publication = "In *Signal Processing Letters*, IEEE."
 publication_short = "In *SPL*"
 
 # Abstract and optional shortened version.
-abstract = "some abstract"
+abstract = "In this work, we study methods for enhanced coprime-array signal processing."
 
 # Featured image thumbnail (optional)
 # image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
