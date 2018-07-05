@@ -18,7 +18,7 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Signal Processing Letters*, IEEE."
-publication_short = "In *SPL*"
+publication_short = "In *IEEE SPL*"
 
 # Abstract and optional shortened version.
 abstract = "In this work, we study methods for enhanced coprime-array signal processing."
@@ -64,5 +64,3 @@ image = ""
 caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
