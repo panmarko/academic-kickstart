@@ -11,13 +11,12 @@ weight = 5
 [interests]
   interests = [
 "Statistical and adaptive signal/data processing",
+"Cognitive wireless communication systems",
 "Tensor methods, multi-linear optimization, and applications",
-"Corruption-resistant data analysis",
-"L1-norm Principal-Component Analysis (L1-PCA)",
-"L1-norm Tensor decomposition",
-"Reliable learning from few training measurements",
+"Robust and dynamic data analysis",
+"L1-norm matrix and tensor decompositions",
 "Efficient algorithms for processing big and heavy data",
-"Efficient combinatorial optimization"
+"Combinatorial optimization"
   ]
   
 
