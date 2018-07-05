@@ -21,20 +21,20 @@ publication = "In *Signal Processing Letters*, IEEE."
 publication_short = "In *SPL*"
 
 # Abstract and optional shortened version.
-# abstract = ""
+abstract = "some abstract"
 
 # Featured image thumbnail (optional)
 # image_preview = ""
 
 # Is this a selected publication? (true/false)
-# selected = true
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
 #   projects = ["example-external-project.md"]
-projects = ["coprime-array.md"]
+#   projects = ["coprime-array.md"]
 
 # Links (optional).
 # url_pdf = "#"
@@ -52,16 +52,16 @@ projects = ["coprime-array.md"]
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
-# math = true
+math = false
 
-# Does the content use source code highlighting?
-# highlight = true
+# Does the content use source code highlighting? 
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
 
